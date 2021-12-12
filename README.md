@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GiantBooley
-- 👀 I’m interested in bobology
-- 🌱 I’m currently learning tomology
-- 💞️ I’m looking to collaborate on bob inc
-- 📫 How to reach me haverick@bobmail.com
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on javascript
+- 📫 How to reach me giantbooley@gmail.com
 
 <!---
 GiantBooley/GiantBooley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
